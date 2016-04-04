@@ -1,0 +1,9 @@
+1) Obtener numeros A y B ambos distintos entre si (A y B representan a cualquier numero entero)
+2) Determinar cual es el mayor
+3) Obtener resultado de 2) y Mostrar resultado
+
+
+
+2) Determinar cual es el mayor
+2.a) Si A es mayor que B, el resultado es A
+2.b) Si B es mayor que A, el resultado es B
