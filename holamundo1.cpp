@@ -1,5 +1,6 @@
-// holamundo1.cpp: define el punto de entrada de la aplicación de consola.
-//
+//Hola mundo
+//Noelia Rodriguez
+//04/04/2016
 
 #include <iostream>
 using namespace std;
